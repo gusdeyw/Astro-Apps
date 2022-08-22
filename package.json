@@ -1,0 +1,22 @@
+{
+  "name": "astro-apps",
+  "version": "1.0.0",
+  "description": "Project based CRUD blogpost Application using Astro Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusdeyw/Astro-Apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusdeyw/Astro-Apps/issues"
+  },
+  "homepage": "https://github.com/gusdeyw/Astro-Apps#readme",
+  "dependencies": {
+    "firebase": "^9.9.3"
+  }
+}
